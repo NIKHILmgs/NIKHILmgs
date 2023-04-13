@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
 <h3 align="center">A passionate SOFTWARE DEVELOPER </h3>
+<h4 align="center">With good problem solving skills and keen interest in software development </h4>
 <p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
@@ -10,7 +11,7 @@
 
 - 💬 Ask me about **Computer Science, new technologies and frameworks and Computer fundamentals**
 
-- 📫 How to reach me **nikhilmgs222@gmail.com**
+- 📫 You can reach me at **nikhilmgs222@gmail.com**
 
 
 ### Blogs posts
