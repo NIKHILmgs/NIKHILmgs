@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmgs" alt="nikhilmgs" /></a> </p>
 
 - 🌱 I’m currently practicing and learning **MERN stack by building new projects**
 
@@ -37,7 +36,7 @@
 
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmgs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nikhilmgs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmgs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nikhilmgs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilmgs&show_icons=true&locale=en&theme=algolia" alt="nikhilmgs" /></p>
 
