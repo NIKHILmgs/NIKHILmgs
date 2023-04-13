@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate sOFTWARE developer </h3>
 <p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmgs" alt="nikhilmgs" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 
 
-- 🌱 I’m currently learning **Nodejs, Mongodb and Express Js**
+- 🌱 I’m currently practicing and learning **MERN stack by building new projects**
 
-- 💬 Ask me about **C/C++, HTML,CSS, JavaScript, ReactJs and Python**
+- 💬 Ask me about **Computer Science, new technologies and frameworks and Computer fundamentals**
 
 - 📫 How to reach me **nikhilmgs222@gmail.com**
 
-- ⚡A Fun fact **In web development is that progressive web apps (PWAs) are becoming increasingly popular because they allow users to access their favorite websites without an internet connection. PWAs use technologies like service workers, which enable offline caching and background syncing, making them a great solution for users with limited internet access or spotty connectivity. So now you can browse your favorite websites even when you're in a remote area without internet!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
