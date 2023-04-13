@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
 <h3 align="center">A passionate SOFTWARE DEVELOPER </h3>
 <h4 align="center">With good problem solving skills and keen interest in software development </h4>
+
 <p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
@@ -14,18 +15,21 @@
 - 📫 You can reach me at **nikhilmgs222@gmail.com**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@nikhil_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nikhil_mishra" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-mishra-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumar-mishra-" height="30" width="40" /></a>
+  
 <a href="https://www.codechef.com/users/nikhilmgs123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhilmgs123" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/nikhilmgs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilmgs123" height="30" width="40" /></a>
+  
 <a href="https://codeforces.com/profile/nikhilmgs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikhilmgs123" height="30" width="40" /></a>
+  
 <a href="https://leetcode.com/nikhilmgs123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikhilmgs123/" height="30" width="40" /></a>
+  
 <a href="https://auth.geeksforgeeks.org/user/nikhilmgs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilmgs123" height="30" width="40" /></a>
 </p>
 
