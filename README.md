@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
 <h3 align="center">A passionate SOFTWARE DEVELOPER </h3>
-<h4 align="center">With good problem solving skills and keen interest in software development </h4>
+<h4 align="center">With keen interest in problem solving and software development </h4>
 <br>
 <p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 <br>
