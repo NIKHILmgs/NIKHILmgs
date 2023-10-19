@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer </h3>
 <h4 align="center">With keen interest in problem solving and software development </h4>
 <br>
-<p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
+<p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" loading="lazy"></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
 <br>
@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://dev.to/@nikhil_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nikhil_mishra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-mishra-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumar-mishra-" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikhilmgs123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhilmgs123" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nikhilmgs123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhilmgs123" height="30" width="40" loading="lazy"/></a>
 <a href="https://www.hackerrank.com/nikhilmgs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilmgs123" height="30" width="40" /></a>  
 <a href="https://codeforces.com/profile/nikhilmgs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikhilmgs123" height="30" width="40" /></a>
 <a href="https://leetcode.com/nikhilmgs123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikhilmgs123/" height="30" width="40" /></a>
