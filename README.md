@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer </h3>
 <h4 align="center">With keen interest in problem solving and software development </h4>
 <br>
-<!-- <p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" loading="lazy"></p> -->
+<p align = "center"><img align = "center" alt = "Coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" loading="lazy"></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmgs&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmgs" /> </p>
 <br>
